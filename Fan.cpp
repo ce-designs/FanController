@@ -3,7 +3,7 @@
 *
 * Created:	13-4-2014 13:28:31
 * Author:	CE-Designs
-* Version:	1.0.0.0 
+* Version:	1.01 
 *
 * Modified: 13-7-2014
 * Reason:	The pinMode was not set for the fan control pin

@@ -1,9 +1,9 @@
 /* 
 * Fan.h
 *
-* Created: 13-4-2014 13:28:32
-* Author: CE-Designs
-* Version: 1.0.0.0 
+* Created:	13-4-2014 13:28:32
+* Author:	CE-Designs
+* Version:	1.01 
 */
 
 

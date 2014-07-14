@@ -1,9 +1,9 @@
 /*
 * LM35.cpp
 *
-* Created: 13-4-2014 16:31:40
-* Author: CE-Designs
-* Version: 1.0.0.0
+* Created:	13-4-2014 16:31:40
+* Author:	CE-Designs
+* Version:	1.01
 *
 * Modified: 13-7-2014
 * Reason:	To ensure more accurate reading the sensor is
